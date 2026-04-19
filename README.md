@@ -256,3 +256,4 @@ Vercel Dashboard → Project → Settings → Environment Variables → Tüm `.e
 - **Icons:** Lucide React
 - **Images:** Next.js Image (Unsplash)
 # vesona
+# vesona
